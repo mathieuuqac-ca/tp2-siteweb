@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: Arial, sans-serif;
     background: #f3f3f3;
@@ -33,3 +34,40 @@ button:hover {
     margin-top: 20px;
     font-weight: bold;
 }
+=======
+body {
+    font-family: Arial, sans-serif;
+    background: #f3f3f3;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background: #0078d4;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+main {
+    margin-top: 20px;
+}
+
+button {
+    background: #0078d4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #005ea0;
+}
+
+#message {
+    margin-top: 20px;
+    font-weight: bold;
+}
+>>>>>>> 960a9481afbaf6235f9ac0d336ce121ab3bda3ce
